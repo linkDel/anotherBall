@@ -1,5 +1,5 @@
 
-.h
+
 #ifndef FIRST_H
 #define FIRST_H
 
@@ -12,7 +12,7 @@ namespace constants
 
 #endif
 
-.cpp
+
 #include"first.h"
 #include<cstdlib>
 #include<iostream>
